@@ -1,44 +1,79 @@
 **C++ Function question**
 
-<li>
-  C++ Program for Linear search using recursion
+C++ Program for Linear search using recursion
+
 C++ Program to Find Factorial of Number Using Recursion
+
 C++ program to Find Sum of Natural Numbers using Recursion
+
 C++ program to Check Number can Express as Sum of Prime Numbers
+
 C++ Program to Check Prime Number
+
 C++ Program to Display Prime Numbers Between Two Intervals
+
 C++ Program to Find GCD Using Recursion
+
 C++ Program to Find Power Using Recursion
+
 C++ program to Reverse String Using Recursion
+
 C++ Program to Convert Binary Number to Octal
+
 C++Program to Convert Octal to Binary
+
 C++ Program to Convert Octal Number to Decimal
+
 C++ Program to Convert Decimal Number to Octal
+
 C++ Program to Convert Binary Number to Decimal
+
 C++ Program to convert decimal number to binary
+
 C++ Program for Fibonacci Series Using Recursion
+
 C++ program to swap values using pass by reference
+
 C++ Program to print series using function: x + x^3/3! + x^5/5! +…….+ x^n/n!
+
 C++ Program for Addition,subtraction and multiplication using function
+
 C++ Program to find cube of number using function
+
 C++ program to find greatest between two numbers using inline function
+
 C++ program to find factorial by defining functions outside the class
+
 C++ program to find greatest b/w 3 nos. by defining the functions inside class
+
 C++ program to swap two characters and integers by call by value
+
 C++ program to find reverse of number by defining functions outside class
+
 C++ program to swap 2 characaters and integers by call by address
+
 C++ program to find sum and product of 5 numbers using inline function
+
 C++ program to add two time by Call by reference
+
 C++ program to add two time by Call by address
+
 C++ program to find how many times function called by objects
+
 C++ program to find square of float and integer using inline function
+
 C++ program to add two complex number passing objects as arguments
+
 C++ program to find factorial of number using functions
+
 C++ program to check number is palindrome or not using Function
+
 C++ Program to Swap two numbers using call by value
+
 C++ Program to Swap two numbers by call by address
+
 C++ Program to Swap two numbers by call by reference
-  </li>
+
 
 
 # -C-Competitive-Programming![cpp_core_guidelines_logo_text](https://user-images.githubusercontent.com/54577120/154421574-7dc815a7-5986-4181-9c76-c8e600762f57.png)
